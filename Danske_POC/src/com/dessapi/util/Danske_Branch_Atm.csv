@@ -1,0 +1,47 @@
+name,address,zipcode,city,phoneNumber,type
+Køge Afdeling,Brogade 3,4600,Køge,45120800,Branch
+EUROSPAR,Hovedgaden 12,4140,Borup,,ATM
+Køge Afdeling: EURO&DKK,Brogade 3,4600,Køge,,ATM
+stuff4bikes,Ejbovej 67,4632,Bjæverskov,,ATM
+Rønne Afdeling,Store Torv 12,3700,Rønne,45124600,Branch
+Bornholms Lufthavn: EURO&DKK,Søndre Landevej 2,3700,Rønne,,ATM
+home Rønne,Lille Torv 2,3700,Rønne,,ATM
+Rønne - Døgnboks,Store Torv 12,3700,Rønne,,ATM
+Rønne Afdeling: EURO&DKK,Store Torv 12,3700,Rønne,,ATM
+Rønne Torv afdeling - Døgnboks,Kirkegade 13,3700,Allinge,,ATM
+Aakirkeby,Torvet 5,3720,Aakirkeby,,ATM
+Nexø,Torvet 2,3730,Nexø,,ATM
+Allinge Apotek,Kirkegade 13,3770,Allinge,,ATM
+Grenaa Afdeling,Torvet 15-17,8500,Grenaa,45123540,Branch
+Grenaa Afdeling: EURO&DKK,Torvet 15-17,8500,Grenaa,,ATM
+Glesborg,Glesborg Bygade 55,8585,Glesborg,,ATM
+Viborg Afdeling,Sct Mathias Gade 52,8800,Viborg,45120740,Branch
+Bjerringbro Afdeling,Torvegade 3,8850,Bjerringbro,45123560,Branch
+Viborg Afdeling: EURO&DKK,Sct. Mathias Gade 52,8800,Viborg,,ATM
+Bjerringbro Afdeling: EURO&DKK,Torvegade 3,8850,Bjerringbro,,ATM
+Varde Afdeling,Kræmmergade 5,6800,Varde,45123600,Branch
+Dagli'Brugsen,Storegade 11,6753,Agerbæk,,ATM
+Varde Afdeling: EURO&DKK,Kræmmergade 5,6800,Varde,,ATM
+Ølgod,Torvegade 2-4,6870,Ølgod,,ATM
+Odense Afdeling,Flakhaven 1,5000,Odense C,45120810,Branch
+Tarup Afdeling,"Tarup Center, Rugvang 36-38",5210,Odense NV,45122500,Branch
+Hunderup Afdeling,Munkerisvej 1,5230,Odense M,45122080,Branch
+Dalum Afdeling,Faaborgvej 22-24,5250,Odense SV,45124340,Branch
+Odense Nord Afdeling,Næsbyhovedvej 1,5270,Odense N,45121640,Branch
+Bazar Fyn,Thriges Plads 3-7,5000,Odense C,,ATM
+Kochsgade,Kochsgade 139,5000,Odense C,,ATM
+Odense Afdeling: EURO&DKK,Flakhaven 1,5000,Odense C,,ATM
+Odense Banegård,Østre Stationsvej 17,5000,Odense C,,ATM
+Odense Banegård,"Østre Stationsvej 17, 2.",5000,Odense C,,ATM
+Odense Universitetshospital,Søndre Boulevard 29,5000,Odense C,,ATM
+Helsecenter Fyn,Middelfartvej 115,5200,Odense V,,ATM
+Tarup Afdeling: EURO&DKK,Rugvang 36-38,5210,Odense NV,,ATM
+Rosengårdscentret,Rosengårdcentret 123,5220,Odense SØ,,ATM
+Rosengårdscentret,Rosengårdscentret - Rød gang,5220,Odense SØ,,ATM
+Rosengårdscentret - Døgnboks,Rosengårdscentret,5220,Odense SØ,,ATM
+Hunderup Afdeling: EURO&DKK,Munkerisvej 1,5230,Odense M,,ATM
+Syddansk Universitet,Campusvej 55,5230,Odense M,,ATM
+Dalum Afdeling: EURO&DKK,Fåborgvej 22-24,5250,Odense SV,,ATM
+Elmegårdsvej,Elmegårdsvej 5,5250,Odense SV,,ATM
+Odense Nord Afdeling: EURO&DKK,Næsbyhovedvej 1,5270,Odense N,,ATM
+Søhus,Rullekrovej 2,5270,Odense N,,ATM
